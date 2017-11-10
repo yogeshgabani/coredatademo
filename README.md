@@ -1,0 +1,2 @@
+# coredatademo
+coredata example
